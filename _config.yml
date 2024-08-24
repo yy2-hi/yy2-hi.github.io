@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "yy2hi9981@egmail.com"
+      url: "yy2hi@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://yy2hi.github.io"
@@ -129,9 +129,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yy2hi"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url: "https://gitlab.com/test3551425"
+    - label: "velog"
+      icon: "fab fa-fw fa-velog"
+      url: "https://velog.io/@yy2hi/posts"
 
 
 # Reading Files
