@@ -129,9 +129,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yy2hi"
-    - label: "velog"
-      icon: "fab fa-fw fa-velog"
-      url: "https://velog.io/@yy2hi/posts"
 
 
 # Reading Files
