@@ -4,14 +4,14 @@ main:
     url: /categories/
   - title: "Search"
     url: /search/
-
+  
 docs:
   - title: "Contents"
-  children:
-    - title: "Category"
-      url: /categories/
-    - title: "search"
-      url: /search/
+    children:
+      - title: "Category"
+        url: /categories/
+      - title: "search"
+        url: /search/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
