@@ -108,11 +108,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "ヾ(•ω•`)o"
   location         : "KOREA"
-  email            : "mailto:yy2hi@naver.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      email: "mailto:yy2hi@naver.com"
+      url: "mailto:yy2hi@naver.com"
       
     - label: "Website"
       icon: "fas fa-fw fa-link"
