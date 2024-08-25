@@ -11,7 +11,7 @@ docs:
     - title: "Category"
       url: /categories/
     - title: "search"
-      url: /search//
+      url: /search/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
