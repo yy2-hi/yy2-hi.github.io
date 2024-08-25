@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Project 3 - Web Parsing"
-categories: Data Analysis
+categories: DataAnalysis
 toc: true
 author_profile: false
 sidebar:

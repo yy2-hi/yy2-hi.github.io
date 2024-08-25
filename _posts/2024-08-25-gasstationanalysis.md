@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Project 6 - 주유소 가격 비교"
-categories: Data Analysis
+categories: DataAnalysis
 toc: true
 author_profile: false
 sidebar:

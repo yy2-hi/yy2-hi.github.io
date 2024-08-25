@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Project 9 - 유저 군집 분석"
-categories: Data Analysis
+categories: DataAnalysis
 toc: true
 author_profile: false
 sidebar:

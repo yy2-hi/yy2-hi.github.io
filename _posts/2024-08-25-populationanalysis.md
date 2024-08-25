@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Project 8 - 인구 소멸 위기 지역 데이터 분석"
-categories: Data Analysis
+categories: DataAnalysis
 toc: true
 author_profile: false
 sidebar:

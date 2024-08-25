@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Project 5 - 네이버 영화 평점 사이트 분석"
-categories: Data Analysis
+categories: DataAnalysis
 toc: true
 author_profile: false
 sidebar:

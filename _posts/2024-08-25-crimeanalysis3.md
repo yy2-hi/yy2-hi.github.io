@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Project 2 - 서울시 범죄 현황 데이터 분석 (3)"
-categories: Data Analysis
+categories: DataAnalysis
 toc: true
 author_profile: false
 sidebar:

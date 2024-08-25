@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Project 4 - 시카고 맛집 데이터 분석"
-categories: Data Analysis
+categories: DataAnalysis
 toc: true
 author_profile: false
 sidebar:

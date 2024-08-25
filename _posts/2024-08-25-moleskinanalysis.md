@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Project 7 - Naver API에서 모은 몰스킨 데이터 분석"
-categories: Data Analysis
+categories: DataAnalysis
 toc: true
 author_profile: false
 sidebar:
