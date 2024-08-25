@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "yy2hi"
 title_separator          : "|"
-subtitle                 : "" # site tagline that appears below site title in masthead
+subtitle                 : "yy2hi 블로그" # site tagline that appears below site title in masthead
 name                     : "yy2hi"
 description              : "yy2hi 블로그"
 url                      : "https://yy2hi.github.io"
