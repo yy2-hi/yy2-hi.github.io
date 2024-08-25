@@ -13,7 +13,7 @@ docs:
     - title: "Category"
       url: /categories/
     - title: "Tag"
-    url: /tags/
+      url: /tags/
     - title: "Search"
       url: /search/
 
