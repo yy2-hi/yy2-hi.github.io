@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "yy2hi"
+title                    : "yy2-hi"
 title_separator          : "|"
-subtitle                 : "yy2hi 블로그" # site tagline that appears below site title in masthead
-name                     : "yy2hi"
-description              : "yy2hi 블로그"
-url                      : "https://yy2hi.github.io"
+subtitle                 : "yy2-hi 블로그" # site tagline that appears below site title in masthead
+name                     : "yy2-hi"
+description              : "yy2-hi 블로그"
+url                      : "https://yy2-hi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "yy2hi"
+  name             : "yy2-hi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "ヾ(•ω•`)o"
   location         : "KOREA"
@@ -112,15 +112,15 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yy2hi@naver.com"
+      url: "mailto:yy2-hi@naver.com"
       
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://yy2hi.github.io"
+      url: "https://yy2-hi.github.io"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yy2hi"
+      url: "https://github.com/yy2-hi"
 
 
 # Site Footer
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yy2hi"
+      url: "https://github.com/yy2-hi"
 
 
 # Reading Files
