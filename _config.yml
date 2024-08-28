@@ -73,9 +73,9 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : "T4DxCjgvNZxzHRW3HuVpEvgG_54QnpW8eIhG7oVc7Jw"
 bing_site_verification   :
-naver_site_verification  : "7a4724cf4b87ce5941ad704a619d8516b5598210"
+naver_site_verification  : "216bd8422df44ce419e71593e98e2efd8fb98f14"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yy2-hi@naver.com"
+      url: "mailto:yy2hi@naver.com"
       
     - label: "Website"
       icon: "fas fa-fw fa-link"
